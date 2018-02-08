@@ -1,0 +1,14 @@
+.vs/
+Debug/
+CM16/Debug/
+Release/
+CM16/Release/
+*.o
+*.d
+*.bin
+*.eep
+*.elf
+*.hex
+*.lss
+*.map
+*.srec
